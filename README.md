@@ -1,7 +1,7 @@
 # minigame-Bouncing-ball-
 This minigame just for little bit fun and testing my skills in libraries
 
-<img src="assets/ezgif-2-7cedde1f57.gif">
+<img src="assets/ezgif-2-832d032d81.gif">
 
 # Description:
 
