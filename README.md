@@ -1,6 +1,8 @@
 # minigame-Bouncing-ball-
 This minigame just for little bit fun and testing my skills in libraries
 
+[](assets/ezgif-2-7cedde1f57.gif)
+
 # Description:
 
 For this game used this libraries : tkinter , random , time
