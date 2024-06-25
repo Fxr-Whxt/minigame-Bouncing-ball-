@@ -18,3 +18,22 @@ So you need to relaunch that game, for play if u loose, but you must clear your 
 ### Right arrow: turns to the right
 
 ### Left mouse button: starting the game
+
+
+# How to install:
+
+if you use linux or MacOs install tkinter:
+
+    sudo apt-get install python3-tk
+
+other libraries has installed on base python,so that ok
+
+### Game:
+
+just install or copy code, here:
+
+[Game-ball](/poprigunchik.py) - here
+
+    
+
+
